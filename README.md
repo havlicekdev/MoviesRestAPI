@@ -23,5 +23,7 @@ neimplementováno
 ## Tech Stack:
 
 Django 5.0
+
 Django Rest Framework 3.14.0
+
 Pillow 10.1.0
